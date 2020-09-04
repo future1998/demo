@@ -2,5 +2,12 @@ Computer Science
 Electrical
 Electronics
 
+Dept3
+Dept4
+
+Dept5
+Dept6
+
 Dept1
 Dept2
+
