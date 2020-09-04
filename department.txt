@@ -1,3 +1,6 @@
 Computer Science
 Electrical
 Electronics
+
+Dept1
+Dept2
